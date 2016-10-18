@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<discos>
+ <cd>
+  <titulo>My Way</titulo>
+  <cantante>Frank Sinatra</cantante>
+  <precio>"12,95"</precio>
+ </cd>
+ <cd>
+  <titulo>The best</titulo>
+  <cantante>Tina Turner</cantante>
+  <precio>"15,50"</precio>
+ </cd>
+</discos>
